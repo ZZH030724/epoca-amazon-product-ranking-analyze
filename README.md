@@ -21,5 +21,4 @@ Raw Data → Cleaning → Feature Engineering → Trend Detection → Insights
 - Supports product selection decisions
 - Identifies emerging trends early
 
-## Dashboard
-[Tableau Link]
+
