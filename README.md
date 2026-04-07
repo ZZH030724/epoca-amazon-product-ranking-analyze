@@ -21,4 +21,6 @@ Raw Data → Cleaning → Feature Engineering → Trend Detection → Insights
 - Supports product selection decisions
 - Identifies emerging trends early
 
-
+##Tableau Dashboard
+[
+](https://public.tableau.com/app/profile/zhonghao.zhang2192/viz/fivebelowproductrankingdashboard/1_2)
